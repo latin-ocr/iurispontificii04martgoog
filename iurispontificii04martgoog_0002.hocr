@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iurispontificii04martgoog_0002.png"; bbox 0 0 1290 1819; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 159 36 264 65">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 159 36 264 65">
+     <span class='ocr_line' id='line_1_1' title="bbox 159 36 264 65; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 159 36 264 65; x_wconf 54' lang='lat' dir='ltr'>&#39;mm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 158 73 193 82">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 158 73 193 82">
+     <span class='ocr_line' id='line_1_2' title="bbox 158 73 193 82; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 158 73 193 82; x_wconf 68' lang='lat' dir='ltr'>MA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 456 839 801 858">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 456 839 801 858">
+     <span class='ocr_line' id='line_1_3' title="bbox 456 839 801 858; baseline 0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 456 839 593 857; x_wconf 82' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_4' title='bbox 608 839 667 858; x_wconf 90' lang='lat' dir='ltr'>LAW</span> <span class='ocrx_word' id='word_1_5' title='bbox 682 839 801 858; x_wconf 83' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 436 1049 713 1077">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 436 1049 713 1077">
+     <span class='ocr_line' id='line_1_4' title="bbox 436 1049 713 1077; baseline -0.007 -5"><span class='ocrx_word' id='word_1_6' title='bbox 436 1064 499 1077; x_wconf 50' lang='lat' dir='ltr'>mm,</span> <span class='ocrx_word' id='word_1_7' title='bbox 566 1049 602 1073; x_wconf 68' lang='lat' dir='ltr'>sm</span> <span class='ocrx_word' id='word_1_8' title='bbox 621 1051 651 1072; x_wconf 84' lang='lat'>15</span> <span class='ocrx_word' id='word_1_9' title='bbox 668 1049 713 1071; x_wconf 71' lang='lat'>1932</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
